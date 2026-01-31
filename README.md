@@ -29,3 +29,5 @@ If you are referring to the `README.md` file generated in our previous conversat
     1.  Clone the repository.
     2.  Navigate to the `/server` directory, run `npm install`, create a `.env` file with your `MONGO_URI` and `AI_SERVICE_API_KEY`, and then run `npm start`.
     3.  Navigate to the `/client` directory, run `npm install`, and then run `npm start`.
+
+srg
